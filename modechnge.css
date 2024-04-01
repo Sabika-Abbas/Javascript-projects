@@ -1,0 +1,20 @@
+
+ 
+ #red{
+    background-color: red;
+    border: 2px solid rgb(228, 85, 85);
+}
+ #yellow{
+    background-color: yellow;
+    border: 2px solid rgb(233, 219, 96);
+}
+ #blue{
+    background-color: blue;
+    color: white;
+    border: 2px solid rgb(85, 123, 228);
+}
+ #green{
+    color: white;
+    background-color: green;
+    border: 2px solid rgb(63, 145, 63);
+}
