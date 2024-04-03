@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: darkcyan;
+}
+
+main{
+    text-align: center;
+}
+main h1{
+    color: white;
+}
+.game{
+    display: flex;
+    width: 400px;
+    flex-wrap: wrap;
+    
+    margin: 4rem auto;
+    gap: 8px
+}
+
+.game button{
+    height: 120px;
+    width: 120px;
+    font-size: 4rem;
+    background-color: rgb(230, 240, 141);
+    color: black;
+}
+
+
+.msg{
+    font-size: 2rem;
+    background-color: rgb(122, 18, 100);
+    display: inline;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+}
+
