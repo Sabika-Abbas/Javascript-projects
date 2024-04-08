@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.hangman-container {
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+}
+.word-container {
+    margin-bottom: 20px;
+}
+.letters-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.letter {
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
